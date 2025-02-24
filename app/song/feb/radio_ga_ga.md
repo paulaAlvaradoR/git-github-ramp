@@ -1,6 +1,6 @@
 # Radio Ga Ga
 
-"Radio Ga Ga" is a song by the British rock band Queen, released in 1984 as the lead single from their album *The Works*. Written by the band's drummer, Roger Taylor, the song critiques the decline of radio in favor of television and music videos while celebrating its impact on past generations. It became one of Queen's most iconic anthems, known for its audience participation during live performances.
+"Radio Ga Ga" is a song by the British rock band Queen, released in 1984 as the lead single from their album *The Works*. Written by the band's drummer, Roger Taylor, the song critiques the decline of radio in favor of television and music videos while celebrating its impact on past generations. It became one of Queen's most iconic anthems, known for its audience participation during live performances.🚨
 
 Source: [Radio Ga Ga](https://en.wikipedia.org/wiki/Radio_Ga_Ga)
 
