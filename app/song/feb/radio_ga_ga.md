@@ -8,7 +8,6 @@ Source: [Radio Ga Ga](https://en.wikipedia.org/wiki/Radio_Ga_Ga)
 
 Album: The Works
 
-
 # SongFacts
 
 1. The song was inspired by Roger Taylor's son, who once said "Radio ca-ca," which evolved into "Radio Ga Ga."
