@@ -8,11 +8,11 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Arctic Monkeys](/writer/arctic_monkeys.md) | arctic.monkeys@onlyrics.magazine
 
-[Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
+[Why'd You Only Call Me When You're High](WYOCWYH.md)
 
 ### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
 
-[Imagine](song/jan/vanilla-panna-cotta.md)
+[Here comes the sun](song/feb/here_comes_the_sun.md)
 
 ### [Queen](writer/queen.md) | queen@onlyrics.magazine
 
@@ -20,4 +20,4 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
 
-[Mr. Brightside](song/jan/mr_brightside.md)
+[Smile like you mean it](song/feb/smile_like_you_mean_it.md)
