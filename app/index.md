@@ -16,7 +16,8 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Queen](writer/queen.md) | queen@onlyrics.magazine
 
-[We Are The Champions](song/jan/we_are_the_champions.md)
+[Radio ga ga](../song/feb/radio_ga_ga.md)
+
 
 ### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
 
